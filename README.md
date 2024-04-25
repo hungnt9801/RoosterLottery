@@ -1,6 +1,6 @@
 # RoosterLottery
 
-1.Kiến trúc source code
+1.Kiến trúc source code 
 Source code được tổ chức theo kiến trúc Clean Architecture + Domain Driven Design
 -Client: Tầng xử lý giao diện
 -Application: xử lý logic ứng dụng
